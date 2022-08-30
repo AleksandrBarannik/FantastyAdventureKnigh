@@ -1,0 +1,1710 @@
+fileFormatVersion: 2
+guid: 725970d3ec44e444a8bf34afcedad01f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2640
+        width: 266
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a5585bcce329499a2838669473468
+      internalID: -845776008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2640
+        width: 273
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36796f7952561948acb4d59c53b773f
+      internalID: 1389468436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2640
+        width: 276
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568f25b2b6525f4aa0948b5d64820bd
+      internalID: -554549898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle3
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2640
+        width: 280
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66347f99817ca5a43a9413df6ed8c442
+      internalID: 116346143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle4
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2640
+        width: 287
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f3c50567a25747ad3ac14f6bbc313
+      internalID: 716908228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle5
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2640
+        width: 293
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50b30310ebaca240aecd1260870e110
+      internalID: 252939211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle6
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2640
+        width: 286
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b18553d439dba468ccc77d5294b6ce
+      internalID: -1940985151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle7
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2638
+        width: 282
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc335b3c5d3d84593db55b6382f8e3
+      internalID: 1040842423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle8
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 2642
+        width: 277
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee6c1c9d880314a850ad9eae1794f8
+      internalID: -1951424351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Idle9
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 2642
+        width: 271
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7a24303c68d94897b70f1c585614f
+      internalID: 1406726439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2231
+        width: 310
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2d44e5f7c3eb4a9b9c10b4676cd49
+      internalID: -1178890312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2231
+        width: 299
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a951fbb4e771c4a8c061c53c57a514
+      internalID: 2085172840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2231
+        width: 280
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424791acc9dc62d4ca6d594e60857adc
+      internalID: -506118862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2231
+        width: 263
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddedee35aaf5747a70afd77fd17450
+      internalID: 566159281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk4
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2231
+        width: 244
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbfc5cb817ac7e40b3ae09061535523
+      internalID: -1737261583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk5
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2231
+        width: 228
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ffe3a9bc3e8644c9216ff6e52c4fe8
+      internalID: -329893891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk6
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 2231
+        width: 244
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62754020cb30e4496a00cf27654bfc
+      internalID: -694677512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk7
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2229
+        width: 262
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8b428269a7064492b6153a2dcfec0
+      internalID: 941460952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk8
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2233
+        width: 283
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7088ba0f8dd304090f8c50a9a5a89b
+      internalID: -625883226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Walk9
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 2233
+        width: 296
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e410e1565932b44899f52d340c07f3
+      internalID: -13946173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1839
+        width: 331
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45efe6cc755185344b5c29c5c1a97de7
+      internalID: 994631547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1836
+        width: 305
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e91eecbd07a1448c338d4a594b78f
+      internalID: -347339064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1835
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba523995616df04194c325b3d5871c7
+      internalID: 894659946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1839
+        width: 244
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d864e68b12b2840beadf443b8218f7
+      internalID: -934935026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn4
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1839
+        width: 212
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209b8f7be135e64297871cde9813f88
+      internalID: -1955600084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn5
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1839
+        width: 196
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec54e72a5f65240857c78edfbf5135
+      internalID: 1780098278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn6
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1851
+        width: 212
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400bcdcf54fa3d40bac788be9cba403
+      internalID: 688814975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn7
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1851
+        width: 244
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b58b7f6f4f5c58448b7b7f209660b3a
+      internalID: -884243841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn8
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 1835
+        width: 276
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636af81a53eced94a8dfd70d4f7a7cc6
+      internalID: -1546197707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Rn9
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1835
+        width: 305
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b6e18697a4c3d42ae19e42e68d9f95
+      internalID: -630068202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1411
+        width: 264
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848e2ee917062b4992623433b9eb28e
+      internalID: 1383437184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1411
+        width: 282
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272244b495da424c98c4384be5f0e94
+      internalID: -6519855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1412
+        width: 299
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59cd9c5bed7d4a49b52cbaed0a3749a
+      internalID: -1197649311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump3
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1409
+        width: 312
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a23ee3a740fb8e40b2f0c1e53f42b36
+      internalID: 1553221445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump4
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1408
+        width: 327
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8342d3f466134cad0064773b452a7
+      internalID: 22793873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump5
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1408
+        width: 337
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f0d520bc8c4c47bef35e2ea5246aa
+      internalID: -770847449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump6
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1409
+        width: 325
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a7eb254619de4492dc9d237bea158
+      internalID: 1735071738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump7
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1412
+        width: 313
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4d337f8ea6af45a538dcdded72b1e
+      internalID: -256805947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump8
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1412
+        width: 299
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bcff522b80e742bb495c4a9d321be
+      internalID: -1130183163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Jump9
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1407
+        width: 280
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82809615aefd1409882e6ab74106db
+      internalID: 12473704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 941
+        width: 308
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9f93a45c10564bb381075b5a42cc4
+      internalID: 475052954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 941
+        width: 298
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518ac2c5f75c6846900fcc8ceffd043
+      internalID: 977474986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 941
+        width: 282
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b9a7137d94ca4292603ee984b81d2
+      internalID: 760425154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack3
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 941
+        width: 270
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10366d9f547e6f40a2f4f6861ffc4f0
+      internalID: -1206143562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack4
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 941
+        width: 255
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335fc45ef393694e9bc99f5b959e989
+      internalID: 648558611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack5
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 939
+        width: 325
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83dd3efa3a041f4aaeb2661653217a1
+      internalID: 2123714716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 941
+        width: 268
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da66f2dea3f7549966e1b36fcba7ad
+      internalID: 1350043947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack7
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 944
+        width: 296
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d554c3813b56448b7760d5842786b
+      internalID: -1342993579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack8
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 939
+        width: 315
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c93ef29e619941986b9e68dd9d26e
+      internalID: 677894980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Attack9
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 941
+        width: 317
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e1664db246784fa53f1cbc5fff7d5
+      internalID: -1226188856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 264
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ce74239009224cade8280f60a9d5e
+      internalID: -1324795596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 560
+        width: 258
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd279e64e698a5c4c9fbda3c8dc11f16
+      internalID: 252716243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 562
+        width: 250
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b29e193c01f26488a84ab3353fd5f8
+      internalID: 187695209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt3
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 562
+        width: 243
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6334c9f0eee56ef49aecc25b85e9ec4f
+      internalID: 1489599165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt4
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 561
+        width: 232
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46867de6cacedb7419f14c01655ca13e
+      internalID: -797315101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt5
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 546
+        width: 222
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5f3620880c2348a1f6bbc2e8b04f4
+      internalID: -275942817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt6
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 546
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2be561c561a24185a88a33b26474a
+      internalID: 2067313888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt7
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 546
+        width: 242
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f185dc7160b8504aa795d3816a95ebc
+      internalID: 595704974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt8
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 546
+        width: 251
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6367ef95b04726448962f388d302cd87
+      internalID: -199118168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Hurt9
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 546
+        width: 258
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eea7b60e2040c49a7defe75a7d61fb
+      internalID: 761999776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 136
+        width: 263
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810e07e8a1102b4ca3d3d7dfe02228e
+      internalID: 2038386626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 136
+        width: 308
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb21113841c004d894fd7232afc06d
+      internalID: -596042288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 136
+        width: 343
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4843640fe265e440956581c9d2491ca
+      internalID: -353745627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 137
+        width: 366
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03910578a9094f04d921b14c077f9e99
+      internalID: -341995389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died4
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 136
+        width: 361
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8612f90972358114da34ee0397ebcde0
+      internalID: 1941943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died5
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 138
+        width: 345
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e0448964c7ffc4a9b893500cbe44ef
+      internalID: -1735581585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died6
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 146
+        width: 329
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35dfa64960ccd84fb898961dcad0d38
+      internalID: -1862427967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died7
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 158
+        width: 329
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c756125ccfc543beadb1071b5deae
+      internalID: 220820929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died8
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 152
+        width: 325
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520b2a9b1414af428b398de926e0eec
+      internalID: -1661028107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll2_Stoune_Died9
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 152
+        width: 325
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8b6860954fa94abb205b24e739d6d
+      internalID: 363094259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Troll2_Stoune_Idle5: 252939211
+      Troll2_Stoune_Jump2: -1197649311
+      Troll2_Stoune_Jump5: -770847449
+      Troll2_Stoune_Died6: -1862427967
+      Troll2_Stoune_Rn6: 688814975
+      Troll2_Stoune_Hurt5: -275942817
+      Troll2_Stoune_Jump6: 1735071738
+      Troll2_Stoune_Rn8: -1546197707
+      Troll2_Stoune_Walk9: -13946173
+      Troll2_Stoune_Died7: 220820929
+      Troll2_Stoune_Jump7: -256805947
+      Troll2_Stoune_Jump9: 12473704
+      Troll2_Stoune_Rn2: 894659946
+      Troll2_Stoune_Attack7: -1342993579
+      Troll2_Stoune_Hurt2: 187695209
+      Troll2_Stoune_Hurt8: -199118168
+      Troll2_Stoune_Walk1: 2085172840
+      Troll2_Stoune_Walk6: -694677512
+      Troll2_Stoune_Idle0: -845776008
+      Troll2_Stoune_Rn5: 1780098278
+      Troll2_Stoune_Rn7: -884243841
+      Troll2_Stoune_Jump0: 1383437184
+      Troll2_Stoune_Died4: 1941943375
+      Troll2_Stoune_Died1: -596042288
+      Troll2_Stoune_Died8: -1661028107
+      Troll2_Stoune_Rn3: -934935026
+      Troll2_Stoune_Died5: -1735581585
+      Troll2_Stoune_Rn1: -347339064
+      Troll2_Stoune_Idle9: 1406726439
+      Troll2_Stoune_Walk5: -329893891
+      Troll2_Stoune_Jump3: 1553221445
+      Troll2_Stoune_Hurt9: 761999776
+      Troll2_Stoune_Hurt6: 2067313888
+      Troll2_Stoune_Attack1: 977474986
+      Troll2_Stoune_Jump8: -1130183163
+      Troll2_Stoune_Rn0: 994631547
+      Troll2_Stoune_Jump1: -6519855
+      Troll2_Stoune_Hurt0: -1324795596
+      Troll2_Stoune_Idle4: 716908228
+      Troll2_Stoune_Died0: 2038386626
+      Troll2_Stoune_Walk3: 566159281
+      Troll2_Stoune_Attack0: 475052954
+      Troll2_Stoune_Attack5: 2123714716
+      Troll2_Stoune_Hurt3: 1489599165
+      Troll2_Stoune_Died3: -341995389
+      Troll2_Stoune_Attack9: -1226188856
+      Troll2_Stoune_Attack6: 1350043947
+      Troll2_Stoune_Died9: 363094259
+      Troll2_Stoune_Idle2: -554549898
+      Troll2_Stoune_Walk4: -1737261583
+      Troll2_Stoune_Hurt7: 595704974
+      Troll2_Stoune_Attack3: -1206143562
+      Troll2_Stoune_Attack8: 677894980
+      Troll2_Stoune_Idle6: -1940985151
+      Troll2_Stoune_Hurt1: 252716243
+      Troll2_Stoune_Idle7: 1040842423
+      Troll2_Stoune_Walk8: -625883226
+      Troll2_Stoune_Idle8: -1951424351
+      Troll2_Stoune_Walk0: -1178890312
+      Troll2_Stoune_Walk2: -506118862
+      Troll2_Stoune_Jump4: 22793873
+      Troll2_Stoune_Attack4: 648558611
+      Troll2_Stoune_Rn4: -1955600084
+      Troll2_Stoune_Hurt4: -797315101
+      Troll2_Stoune_Idle1: 1389468436
+      Troll2_Stoune_Idle3: 116346143
+      Troll2_Stoune_Rn9: -630068202
+      Troll2_Stoune_Attack2: 760425154
+      Troll2_Stoune_Walk7: 941460952
+      Troll2_Stoune_Died2: -353745627
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

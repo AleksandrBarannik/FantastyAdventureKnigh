@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: da1776aecfb89aa4b9fa96391bfd1080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3696019449777573715
+    second: Slash_1
+  - first:
+      213: 6099374761294450104
+    second: Slash_2
+  - first:
+      213: -1817706105750108133
+    second: Slash_3
+  - first:
+      213: -1305193885933302247
+    second: Slash_4
+  - first:
+      213: 6922725289032308390
+    second: Slash_5
+  - first:
+      213: -4407079611941592608
+    second: Slash_6
+  - first:
+      213: 5133358766258931358
+    second: arm_L
+  - first:
+      213: -8218767929661400792
+    second: arm_R
+  - first:
+      213: 233227185538982242
+    second: body
+  - first:
+      213: 6491900259821310097
+    second: eye_close
+  - first:
+      213: 8261506567799264155
+    second: flash
+  - first:
+      213: -8615519025940283909
+    second: foot_R
+  - first:
+      213: -1846784345090356148
+    second: head
+  - first:
+      213: -882541127876469043
+    second: health_buff_FX_2
+  - first:
+      213: -5112370470496942476
+    second: hit_fx
+  - first:
+      213: 1709046237786268854
+    second: impact_shield_1
+  - first:
+      213: -8591924157348579260
+    second: impact_shield_2
+  - first:
+      213: 3409722043551342449
+    second: impact_shield_3
+  - first:
+      213: -2432049273819448075
+    second: impact_shield_4
+  - first:
+      213: 6241477949349124700
+    second: impact_shield_5
+  - first:
+      213: 8302184539061393393
+    second: impact_shield_6
+  - first:
+      213: -4941313732075864409
+    second: impact_shield_7
+  - first:
+      213: 3023743985052288823
+    second: impact_shield_8
+  - first:
+      213: 8157010442209772575
+    second: knee_R
+  - first:
+      213: -542816890280099008
+    second: leg_R
+  - first:
+      213: -1461059339494140160
+    second: lightning_1
+  - first:
+      213: -7846319024340782248
+    second: lightning_2
+  - first:
+      213: 3783552209191015402
+    second: mouth_attack
+  - first:
+      213: -209143576518600603
+    second: shadow
+  - first:
+      213: -7302615292981491278
+    second: shield
+  - first:
+      213: 8714738195616249309
+    second: shoulder_L
+  - first:
+      213: -75760701862620676
+    second: shoulder_R
+  - first:
+      213: 259983448653371812
+    second: slash
+  - first:
+      213: 6330446378266889542
+    second: smoke
+  - first:
+      213: -1732543091348952827
+    second: smoke_buff_dam_1
+  - first:
+      213: 7806502140297176207
+    second: smoke_buff_dam_2
+  - first:
+      213: 2330866738244189442
+    second: sword
+  - first:
+      213: -7495587320823174135
+    second: toe_R
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slash_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 705
+        width: 343
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0b21d84e915bcc0800000000000000
+      internalID: -3696019449777573715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_2
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5
+        width: 242
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd40fe870555a450800000000000000
+      internalID: 6099374761294450104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 350
+        width: 242
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18c4bc6de536c6e0800000000000000
+      internalID: -1817706105750108133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_4
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 5
+        width: 242
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0fe1731503ede0800000000000000
+      internalID: -1305193885933302247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 350
+        width: 242
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65262e8f5721060800000000000000
+      internalID: 6922725289032308390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_6
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 695
+        width: 343
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ea515178e6d2c0800000000000000
+      internalID: -4407079611941592608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_L
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 302
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e964087a99a5d3740800000000000000
+      internalID: 5133358766258931358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_R
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 249
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d825ec1211fd80800000000000000
+      internalID: -8218767929661400792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 177
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261e30ab3e69c3300800000000000000
+      internalID: 233227185538982242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_close
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 978
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905ae704ecd71a50800000000000000
+      internalID: 6491900259821310097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flash
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 345
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b935b3bb374c6a270800000000000000
+      internalID: 8261506567799264155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_R
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 978
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb537c7178f6880800000000000000
+      internalID: -8615519025940283909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 5
+        width: 219
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c032e3c67ee56e0800000000000000
+      internalID: -1846784345090356148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health_buff_FX_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 5
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1045258590c3f0800000000000000
+      internalID: -882541127876469043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_fx
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 5
+        width: 146
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47645d1c4263d09b0800000000000000
+      internalID: -5112370470496942476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e7f39f70c7b710800000000000000
+      internalID: 1709046237786268854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f328308a53c880800000000000000
+      internalID: -8591924157348579260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 705
+        width: 348
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f52b41224c15f20800000000000000
+      internalID: 3409722043551342449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 5
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcbebd2210af3ed0800000000000000
+      internalID: -2432049273819448075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 355
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a536c402f2e9650800000000000000
+      internalID: 6241477949349124700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 705
+        width: 348
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f79e76f9d8473370800000000000000
+      internalID: 8302184539061393393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aebbd3475dec6bb0800000000000000
+      internalID: -4941313732075864409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_shield_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 355
+        width: 305
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73704c8422f76f920800000000000000
+      internalID: 3023743985052288823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knee_R
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 978
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14c01d87c5833170800000000000000
+      internalID: 8157010442209772575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_R
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 949
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c5cc0ae68778f0800000000000000
+      internalID: -542816890280099008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_1
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 939
+        width: 153
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075fa1954649bbe0800000000000000
+      internalID: -1461059339494140160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_2
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 220
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85337cf3b664c1390800000000000000
+      internalID: -7846319024340782248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_attack
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 978
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae399f920b0e18430800000000000000
+      internalID: 3783552209191015402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1006
+        width: 193
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568dd867609f81df0800000000000000
+      internalID: -209143576518600603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 220
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c08af416e7aa90800000000000000
+      internalID: -7302615292981491278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoulder_L
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 345
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53c3c5738f0f870800000000000000
+      internalID: 8714738195616249309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoulder_R
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 335
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15b850b08d2fef0800000000000000
+      internalID: -75760701862620676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 705
+        width: 147
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91770b195ab9300800000000000000
+      internalID: 259983448653371812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 949
+        width: 109
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d814ed0734ad750800000000000000
+      internalID: 6330446378266889542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_buff_dam_1
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 249
+        width: 111
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a612ec35c4f7e0800000000000000
+      internalID: -1732543091348952827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_buff_dam_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 949
+        width: 134
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f846db20654465c60800000000000000
+      internalID: 7806502140297176207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 939
+        width: 235
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d71dfe2f6e85020800000000000000
+      internalID: 2330866738244189442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toe_R
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1006
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ca9678b035af790800000000000000
+      internalID: -7495587320823174135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      knee_R: 8157010442209772575
+      smoke: 6330446378266889542
+      Slash_5: 6922725289032308390
+      Slash_6: -4407079611941592608
+      Slash_4: -1305193885933302247
+      lightning_1: -1461059339494140160
+      shoulder_L: 8714738195616249309
+      slash: 259983448653371812
+      shadow: -209143576518600603
+      sword: 2330866738244189442
+      hit_fx: -5112370470496942476
+      smoke_buff_dam_2: 7806502140297176207
+      impact_shield_7: -4941313732075864409
+      leg_R: -542816890280099008
+      smoke_buff_dam_1: -1732543091348952827
+      health_buff_FX_2: -882541127876469043
+      lightning_2: -7846319024340782248
+      Slash_2: 6099374761294450104
+      head: -1846784345090356148
+      foot_R: -8615519025940283909
+      toe_R: -7495587320823174135
+      shield: -7302615292981491278
+      mouth_attack: 3783552209191015402
+      impact_shield_5: 6241477949349124700
+      impact_shield_6: 8302184539061393393
+      impact_shield_4: -2432049273819448075
+      arm_R: -8218767929661400792
+      impact_shield_1: 1709046237786268854
+      shoulder_R: -75760701862620676
+      flash: 8261506567799264155
+      impact_shield_3: 3409722043551342449
+      impact_shield_2: -8591924157348579260
+      Slash_3: -1817706105750108133
+      body: 233227185538982242
+      arm_L: 5133358766258931358
+      eye_close: 6491900259821310097
+      Slash_1: -3696019449777573715
+      impact_shield_8: 3023743985052288823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

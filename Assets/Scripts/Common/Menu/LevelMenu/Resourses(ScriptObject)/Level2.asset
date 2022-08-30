@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aecc210e61233324dbc12534bdc7e6f9, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  unlockLevel: {fileID: 11400000, guid: 3f15a88cc27c63c41b322349c5bd7591, type: 2}
+  indexLevel: 2
+  isLocked: 1
+  buttonBackground: {fileID: 21300000, guid: 3ce0838df91efa0439c714f39a545da8, type: 3}
+  numberLevel: {fileID: 21300000, guid: b7c769eced1d566429bd6fde5b9ef087, type: 3}
