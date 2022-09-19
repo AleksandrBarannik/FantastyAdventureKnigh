@@ -53,10 +53,7 @@ public class DeathState : PlayerState
         player.animator.Play("Died");
         yield return  new  WaitForSeconds(_disableDelay);
         DisableSelf();
-        //Time.timeScale = 0;
         GameStatusWindow.Instance.EnableLoseScreen();
-        
-        //Отключить всю графику?и как это сделать?
 
     }
         

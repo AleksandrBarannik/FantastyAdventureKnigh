@@ -2,6 +2,7 @@ using Common.Audio;
 using Common.ControlMenu;
 using UnityEngine;
 using UnityEngine.UI;
+using Utilites;
 
 //Отвечает за действиz на  кнопки из MainMenu
 namespace Common.Menu
@@ -34,7 +35,7 @@ namespace Common.Menu
 
         private void HandleStartClicked()
         {
-            AudioController.Instance.Play("ButtonSound");
+            AudioController.Instance.Play(Utils.ButtonSound);
             gameObject.SetActive(false);
             SceneLoader.Instance.slider.gameObject.SetActive(true);
             SceneLoader.Instance.LoadScene(1);
@@ -43,20 +44,20 @@ namespace Common.Menu
         }
         private void HandleLevelClicked()
         {
-            AudioController.Instance.Play("ButtonSound");
+            AudioController.Instance.Play(Utils.ButtonSound);
             MainMenuController.Instance.EnableLevelMenu();
             gameObject.SetActive(false);
         }
     
         private void HandleQuitClicked()
         {
-            AudioController.Instance.Play("ButtonSound");
+            AudioController.Instance.Play(Utils.ButtonSound);
             MainMenuController.Instance.Exit();
         }
     
         private void HandleSettingClicked()
         {
-            AudioController.Instance.Play("ButtonSound");
+            AudioController.Instance.Play(Utils.ButtonSound);
             MainMenuController.Instance.EnableSettings();
             gameObject.SetActive(false);
         }

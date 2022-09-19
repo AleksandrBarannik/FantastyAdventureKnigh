@@ -1,6 +1,7 @@
 using System.Collections;
 using Common.Audio;
 using UnityEngine;
+using Utilites;
 
 namespace MainCharacter.States
 {
@@ -45,14 +46,14 @@ namespace MainCharacter.States
         {
             float moveX = _joystick.Horizontal;
             _rigidbody.velocity = new Vector2(moveX * speed, _rigidbody.velocity.y);
-           //AudioController.Instance.Play("Steps");
+           
         }
         
         IEnumerator PlaySoundDelay()
         {
             while (true)
             {
-                AudioController.Instance.Play("Steps");
+                AudioController.Instance.Play(Utils.StepsSound);
                 yield return new WaitForSeconds(0.7f);
             }
         }

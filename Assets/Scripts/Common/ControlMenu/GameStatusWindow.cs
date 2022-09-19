@@ -4,6 +4,7 @@ using Common.Menu.LevelMenu;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using Utilites;
 
 namespace Common.Menu
 {  // Отвчает за экран победы и поражения
@@ -27,6 +28,10 @@ namespace Common.Menu
         private Button restartButtonLose;
         
         [SerializeField]
+        private Button buttonLoadMainMenu;
+        
+        
+        [SerializeField]
         private GameObject screenVictory;
         
         [SerializeField]
@@ -45,6 +50,7 @@ namespace Common.Menu
             nextLevelButton.onClick.AddListener(HandleNextLevelClicked);
             restartButtonWiner.onClick.AddListener(HandleRestartClicked);
             restartButtonLose.onClick.AddListener(HandleRestartClicked);
+            buttonLoadMainMenu.onClick.AddListener(HandleLoadMainMenuClicked);
         }
 
         private void HandleRestartClicked()
@@ -61,11 +67,17 @@ namespace Common.Menu
             PauseHandler.Instance.Play();
             ActiveButton();
         }
+        
+        private void HandleLoadMainMenuClicked()
+        {
+            SceneLoader.Instance.LoadScene(0);
+            
+        }
 
         public void EnableVictoryScreen()
         {
             DeactiveButton();
-            AudioController.Instance.Play("Win");
+            AudioController.Instance.Play(Utils.WinSound);
             screenVictory.gameObject.SetActive(true); 
             LevelController.Instance.CheckRate();
             LevelController.Instance.UnlockLevel();
@@ -76,12 +88,12 @@ namespace Common.Menu
         public void EnableLoseScreen()
         {
             DeactiveButton();
-            AudioController.Instance.Play("Lose");
+            AudioController.Instance.Play(Utils.LoseSound);
             screenLose.gameObject.SetActive(true);
             onLose.Invoke();
         }
 
-        private void DeactiveButton()
+        private void DeactiveButton()//Деактивацтя кнопок прыжка и атаки
         {
             foreach (var button in playButtons)
             {

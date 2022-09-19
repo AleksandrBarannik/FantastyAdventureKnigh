@@ -23,10 +23,11 @@ namespace Common.ControlMenu
             _image.sprite = enabledSprite;
         }
 
-        public void ChangeButtonImage()
+       
+        public void SetActive(bool value)
         {
+            isOn = value;
             _image.sprite = isOn ? enabledSprite : disabledSprite;
-            isOn = !isOn;
             if ( isOn) onActivated.Invoke();
             else onDeactivated.Invoke();
         }

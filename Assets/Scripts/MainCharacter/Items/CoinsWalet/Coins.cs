@@ -1,5 +1,6 @@
 using Common.Audio;
 using UnityEngine;
+using Utilites;
 
 namespace MainCharacter.Items.CoinsWalet
 {
@@ -11,7 +12,7 @@ namespace MainCharacter.Items.CoinsWalet
         {
             if (!other.GetComponent<Player>()) return;
             
-            AudioController.Instance.Play("Gold");
+            AudioController.Instance.Play(Utils.GoldSound);
             Wallet.Instance.Coins += increaseValue;
             Destroy(gameObject);
         }

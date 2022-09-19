@@ -1,9 +1,11 @@
+using System.Security.Cryptography;
 using Common;
 using Common.Audio;
 using UnityEngine;
 using UnityEngine.Rendering;
 using MainCharacter.States;
 using UnityEngine.UI;
+using Utilites;
 
 namespace MainCharacter
 {
@@ -154,12 +156,12 @@ namespace MainCharacter
             _runState.onEnterState.AddListener(delegate
             {
                 animator.SetFloat(Walk,  SpeedMovement);
-                //AudioController.Instance.Play("Steps");
                 
             });
             
             _jumpState.onEnterState.AddListener(delegate
             {
+                _isGrounded = false;
                 animator.SetBool(IsJump, true);
             });
             
@@ -172,6 +174,7 @@ namespace MainCharacter
             {
                 animator.Play("Stun");
                 SetState(_deathState);
+                AudioController.Instance.Stop(Utils.StepsSound);
             });
             
             buttonAttack.onClick.AddListener(delegate
@@ -183,6 +186,7 @@ namespace MainCharacter
             {
                 if (_isGrounded)
                 {
+                    Debug.Log("Enter!");
                     SetState(_jumpState);
                 }
             });
@@ -251,6 +255,8 @@ namespace MainCharacter
 
         private void SetState(PlayerState playerState)
         {
+            if (_currentState == _deathState) return;
+            
             _currentState?.FinishState();
             _currentState = playerState;
             _currentState.EnterState();
@@ -271,7 +277,14 @@ namespace MainCharacter
                 groundCheckRadius, 
                 whatIsGround);
 
-            _isGrounded = colliders.Length >= 1;
+            _isGrounded = false;
+            foreach (var col in colliders)
+            {
+                if (col.gameObject != gameObject && !col.isTrigger)
+                {
+                    _isGrounded = true;
+                }
+            }
         }
 
         

@@ -17,8 +17,7 @@ namespace Utilites
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (!Utils.HasStringInArray(other.tag, tags)) return;
-            
-            
+
             onTriggerEnter.Invoke();
         }
 

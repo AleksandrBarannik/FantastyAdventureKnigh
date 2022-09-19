@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using Common;
 using Common.Audio;
+using Utilites;
 
 namespace MainCharacter.States
 {
@@ -68,7 +69,7 @@ namespace MainCharacter.States
             player.animator.Play("Attack");
             yield return  new  WaitForSeconds(_punchDelay);
             
-            AudioController.Instance.Play("Attack");
+            AudioController.Instance.Play(Utils.AttackSound);
             
             Punch();
             yield return  new  WaitForSeconds(_attackDelay);
