@@ -28,7 +28,7 @@ namespace Common
         public void LoadNextLevel()
         {
             StartCoroutine(LoadAsync(SceneManager.GetActiveScene().buildIndex + 1));
-            
+          
 
         }
 
